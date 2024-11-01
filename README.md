@@ -48,7 +48,7 @@ api/
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ARH-MNAJS/AuthAPI.git
    cd AuthAPI
    ```
 

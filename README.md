@@ -30,10 +30,10 @@ api/
 │   │   ├── authentication.ts        # Routes for authentication
 │   │   ├── users.ts                 # Routes for user management
 │   │   └── index.ts                 # Main router file
-│   ├── index.ts                      # Entry point of the application
-├── package.json                      # Project metadata and dependencies
-├── nodemon.json                      # Configuration for nodemon
-└── tsconfig.json                     # TypeScript configuration
+│   ├── index.ts                     # Entry point of the application
+├── package.json                     # Project metadata and dependencies
+├── nodemon.json                     # Configuration for nodemon
+└── tsconfig.json                    # TypeScript configuration
 ```
 
 ## How to Run the Application

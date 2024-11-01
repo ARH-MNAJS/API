@@ -49,7 +49,7 @@ api/
 1. **Clone the Repository**:
    ```bash
    git clone <repository-url>
-   cd api
+   cd AuthAPI
    ```
 
 2. **Install Dependencies**:

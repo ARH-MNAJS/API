@@ -1,5 +1,5 @@
 # AuthAPI
-
+![AuthAPI](https://github.com/ARH-MNAJS/AuthAPI/blob/master/cover.png?raw=true)
 ## Overview
 
 AuthAPI is a Node.js application built with Express and Mongoose that provides a foundational backend for user authentication and management. It connects to a MongoDB Atlas database and offers RESTful API endpoints for user registration, login, and session handling, serving as a flexible starting point for more complex applications.
